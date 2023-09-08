@@ -6,7 +6,9 @@
 
 - 🔭 I’m currently working on my **own project**
 
-- ⚡ Fun fact **Programming is the only thing I'm interested in...**
+- ⚡ Fun fact programming is the **only thing I'm interested in...**
+
+- ⭐ I'm want to find my first **job**
 
 
 <h3 align="center">Languages and Tools:</h3>
