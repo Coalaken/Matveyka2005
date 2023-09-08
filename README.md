@@ -1,6 +1,6 @@
 <h1 align="center">Good to see you 👋, I'm Matvey</h1>
 
-<p align="center"><img src="https://i.pinimg.com/originals/20/c6/58/20c658e4c375268eed59d1c94b61059f.gif" alt="Coding" /></p>
+<p align="center"><img src="https://i.pinimg.com/originals/7d/04/0e/7d040e94931427709008aaeda14db9c8.gif" alt="Coding" /></p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
