@@ -1,7 +1,7 @@
-<h1 align="center">Good to see you 👋, I'm M</h1>
+<h1 align="center">Good to see you 👋, I'm Matvey</h1>
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=matveyka2005&label=Profile%20views&color=0e75b6&style=flat](https://pin.it/6BpgZig)](https://pin.it/5TQhe4U)" alt="matveyka2005" /> </p>
+<img src="https://komarev.com/ghpvc/?username=matveyka2005&label=Profile%20views&color=0e75b6&style=flat](https://pin.it/6BpgZig)](https://pin.it/5TQhe4U)" alt="matveyka2005" />
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
