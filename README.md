@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to my profile, I'm Matvey, Python programmer</h1>
+<h1 align="center">Welcome to my profile👋</h1>
 
 <p align="center"><img src="https://github.com/Matveyka2005/Snake/blob/main/snake.gif" alt="Coding" /></p>
 
