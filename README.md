@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to my profile, I'm Matvey, Python programmer</h1>
 
-<p align="center"><img src="https://i.pinimg.com/originals/72/0c/c4/720cc43d757ee638ad5054a05220fafe.gif" alt="Coding" /></p>
+<p align="center"><img src="https://i.pinimg.com/564x/03/68/0d/03680dc2a67f2574adab25a9f0d0412d.jpg" alt="Coding" /></p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
